@@ -79,11 +79,11 @@ A `/music` slash command for Claude Code. Play, pause, skip and search Apple Mus
 </td>
 <td width="50%" valign="top">
 
-### [🗺️ gmaps2gpx](https://github.com/prajwalgajakesari/gmaps2gpx-cli)
+### [🗺️ gmaps2gpx](https://github.com/prajwalgajakesari/gmaps2gpx)
 
-Convert Google Maps direction URLs to GPX files. Handles shortened links, dragged routes and alternatives, plus a motorcycle routing mode. Published on PyPI.
+Convert Google Maps direction URLs to GPX files, as a <a href="https://gmaps2gpx.vercel.app">web app</a> or a CLI on PyPI. Handles shortened links, dragged routes and alternatives, plus a motorcycle routing mode.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20Routes%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Routes API" /> <img src="https://img.shields.io/pypi/v/gmaps2gpx?style=flat-square&color=6366f1&label=pypi" alt="PyPI" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/pypi/v/gmaps2gpx?style=flat-square&color=6366f1&label=pypi" alt="PyPI" />
 
 </td>
 </tr>

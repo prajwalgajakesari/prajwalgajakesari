@@ -70,12 +70,16 @@ Most of my work sits at the intersection of **data platforms**, **Apple-native a
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prajwalgajakesari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalgajakesari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalgajakesari&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalgajakesari&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwalgajakesari&theme=tokyonight" alt="GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwalgajakesari&theme=tokyonight" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prajwalgajakesari&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 ---

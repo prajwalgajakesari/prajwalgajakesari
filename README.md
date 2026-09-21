@@ -107,9 +107,29 @@ A free six-week self-study path to Forward Deployed Engineering, distilled from 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🛠️ DataForge](https://github.com/prajwalgajakesari/dataforge)
+
+AI-assisted data modeling from the terminal. Profile a PostgreSQL schema, detect normalization violations from 1NF to BCNF, design a star schema, and generate a dbt project that passes validation. Ships as a Claude Code skill and plugin.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logoColor=white" alt="dbt" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+
+</td>
+<td width="50%" valign="top">
+
+### [⚡ Trino 474 + ADLS Gen2](https://github.com/prajwalgajakesari/trino-474-docker-adls-setup)
+
+Docker Compose setup for Trino 474 with a Hive file metastore and native Azure Data Lake Gen2 support, with example SQL for external schemas and tables.
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" alt="Trino" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white" alt="Azure" />
+
+</td>
+</tr>
 </table>
 
-<p align="right"><sub>Also: <a href="https://github.com/prajwalgajakesari/trino-474-docker-adls-setup">Trino 474 + ADLS Gen2 on Docker</a> &nbsp;·&nbsp; <a href="https://github.com/prajwalgajakesari?tab=repositories&type=source">all repositories →</a></sub></p>
+<p align="right"><sub><a href="https://github.com/prajwalgajakesari?tab=repositories&type=source">All repositories →</a></sub></p>
 
 <br/>
 

@@ -22,7 +22,7 @@
 
 I work at the intersection of **data platforms**, **Apple-native apps**, and **AI tooling**.
 
-Most of what I build starts as a personal itch: a disk cleaner that tells you what is *safe* to delete, a slash command so Claude Code can play music, a converter that turns a Google Maps route into a GPX file for a long ride. I like tools that do one job well, ship with a clear README, and respect the user's data.
+Most of what I build starts as a personal itch: a way to hand an AI coding session to a teammate through git, a disk cleaner that tells you what is *safe* to delete, a slash command so Claude Code can play music, a converter that turns a Google Maps route into a GPX file for a long ride. I like tools that do one job well, ship with a clear README, and respect the user's data.
 
 Day to day that means SwiftUI on macOS and iOS, TypeScript and Python on the server, and Trino, Azure Data Lake and Purview on the data side.
 
@@ -47,6 +47,17 @@ Day to day that means SwiftUI on macOS and iOS, TypeScript and Python on the ser
 ## 🚀 Featured projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### [🔄 agent-sessions](https://github.com/prajwalgajakesari/agent-sessions)
+
+Share coding-agent sessions with your team through the git repo you already work in. One push turns a **Claude Code**, **Codex CLI** or **OpenCode** session into a redacted transcript plus a handoff summary under `.claude/sessions/`; a teammate on any agent pulls it straight into their own chat. Secrets and query results never leave the machine, and the commit is built on a temporary index so your working tree is untouched. Ships three ways: a Claude Code plugin, an Agent Skills skill that Codex, OpenCode, Gemini CLI, Cursor and Copilot all read, and a CLI on PyPI.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/pypi/v/agent-sessions-cli?style=flat-square&color=6366f1&label=pypi" alt="PyPI" /> <img src="https://img.shields.io/github/actions/workflow/status/prajwalgajakesari/agent-sessions/ci.yml?style=flat-square&label=ci" alt="CI" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI" /> <img src="https://img.shields.io/badge/OpenCode-6366f1?style=flat-square" alt="OpenCode" /> <img src="https://img.shields.io/github/stars/prajwalgajakesari/agent-sessions?style=flat-square&color=6366f1&label=stars" alt="Stars" />
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 

@@ -7,7 +7,10 @@
 
 **Engineer who ships small, focused tools. Usually because I wanted them to exist and they didn't.**
 
-<a href="#-featured-projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-toolbox">Toolbox</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-activity">Activity</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-get-in-touch">Contact</a>
+### 🌐 [**Ground to Orbit** — my interactive portfolio →](https://prajwalgajakesari.github.io)
+<sub>A scroll-driven 3D story: a KTM 890, the data pipeline behind MotoGenie, the Himalaya, and a rocket to orbit.</sub>
+
+<a href="https://prajwalgajakesari.github.io">Site</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-featured-projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-toolbox">Toolbox</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-activity">Activity</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-get-in-touch">Contact</a>
 
 </div>
 
@@ -218,9 +221,12 @@ Docker Compose setup for Trino 474 with a Hive file metastore and native Azure D
 <!-- ─────────────────────────────  CONTACT  ───────────────────────────── -->
 ## 📫 Get in touch
 
-The easiest way to reach me is to open an issue on any of my repositories, or follow along here on GitHub.
+Take the interactive tour at **[prajwalgajakesari.github.io](https://prajwalgajakesari.github.io)**, open an issue on any of my repositories, or find me on social.
 
 <p>
+  <a href="https://prajwalgajakesari.github.io"><img src="https://img.shields.io/badge/Portfolio-Ground%20to%20Orbit-6366f1?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/prajwal-p-a71857130/"><img src="https://img.shields.io/badge/LinkedIn-Prajwal%20P-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/prajwal_gajakesari/"><img src="https://img.shields.io/badge/Instagram-@prajwal__gajakesari-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/prajwalgajakesari"><img src="https://img.shields.io/badge/GitHub-@prajwalgajakesari-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/prajwalgajakesari?tab=followers"><img src="https://img.shields.io/github/followers/prajwalgajakesari?style=flat-square&color=6366f1&logo=github&logoColor=white&label=followers" alt="Followers" /></a>
 </p>
